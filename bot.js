@@ -3,7 +3,7 @@ const bedrock = require('bedrock-protocol');
 const options = {
     host: 'Unemployed-ZM4H.aternos.me',        
     port: 62559,                            
-    username: '62559',                 
+    username: 'its_mayank',                 
     version: '1.26.33',                     
     offline: true                           
 };
